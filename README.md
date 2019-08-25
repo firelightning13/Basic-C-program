@@ -1,9 +1,9 @@
 # My own exercises and projects C file archived are finally here... 
-_(Only specific for CFS IIUM students)_
+_(Only **exclusively** for CFS IIUM students)_
 
-I thought I would give a cheat sheet for people who are really lost on programming classes lol. Not to brag, but these files is very useful. Include my comments btw, for more reader-friendly. _(ignore those file names though)_
+I thought I would give a cheat sheet for people who are really lost on programming classes lol. Not to brag, but these files are very useful. Included my comments btw, for more reader-friendly. _(ignore those file names though)_
 
-Just hit the green button to download the whole thing _(or just click one of the files to view them)_ and have a good read. You can also compile and run to check them out. It'll always work guaranteed 100%
+Just hit the green button to download the whole thing _(or just click one of the files to view them)_ and have a good read. You can also compile and run to check them out. It'll always work guaranteed 100% _i think? lol_
 
 ### Requirements:
 1. Your laptop or desktop PC _(dunno about Mac Pro though, sorry Apple fans)_
