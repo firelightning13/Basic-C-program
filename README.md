@@ -7,8 +7,8 @@ Just hit the green button to download the whole thing _(or just click one of the
 
 ### Requirements:
 1. Your laptop or desktop PC _(dunno about Mac Pro though, sorry Apple fans)_
-2. Windows XP _(why not, it's not a big deal)_ or Windows 10
-3. [**Dev-C++**](https://sourceforge.net/projects/orwelldevcpp/) _(pls save as .c instead of .cpp)_
+2. Windows XP _(why not, it's not a big deal)_ or Windows 10 or Linux or MacOS
+3. [**Dev-C++**](https://sourceforge.net/projects/orwelldevcpp/) or [**Geany for Linux or MacOS**](https://www.geany.org/download/releases/) _(pls save as .c instead of .cpp)_
 4. Basic computery stuff and C language
 5. Your logic skills _(not for close-minded people >:( )_
 
@@ -25,4 +25,3 @@ Just hit the green button to download the whole thing _(or just click one of the
 - [**problem4.4.c**](https://github.com/firelightning13/Basic-C-program/blob/master/problem4.4.c) - One of the programming exercises for the topic "Functions", better documentation than "chapter 4 problem 4.c"
 - **problem6.1.c - problem6.5.c** - One of the programming exercises for the topic "Strings"
 
-when you're here, you're you're here
